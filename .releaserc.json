@@ -5,5 +5,5 @@
     "@semantic-release/npm",
     "@semantic-release/git"
   ],
-  "repositoryUrl": "https://github.com/Maxime-p/nest-xray"
+  "repositoryUrl": "https://github.com/maxime-p/nest-xray"
 }
